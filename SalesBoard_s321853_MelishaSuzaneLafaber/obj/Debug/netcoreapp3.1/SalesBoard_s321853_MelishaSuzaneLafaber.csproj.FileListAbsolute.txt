@@ -195,3 +195,8 @@ C:\Users\Melisha Lafaber\Documents\HIT339-Assignment-1-Shopping-Cart\SalesBoard_
 C:\Users\Melisha Lafaber\Documents\HIT339-Assignment-1-Shopping-Cart\SalesBoard_s321853_MelishaSuzaneLafaber\obj\Debug\netcoreapp3.1\Razor\Views\Sales\Details.cshtml.g.cs
 C:\Users\Melisha Lafaber\Documents\HIT339-Assignment-1-Shopping-Cart\SalesBoard_s321853_MelishaSuzaneLafaber\obj\Debug\netcoreapp3.1\Razor\Views\Sales\Edit.cshtml.g.cs
 C:\Users\Melisha Lafaber\Documents\HIT339-Assignment-1-Shopping-Cart\SalesBoard_s321853_MelishaSuzaneLafaber\obj\Debug\netcoreapp3.1\Razor\Views\Sales\Index.cshtml.g.cs
+C:\Users\Melisha Lafaber\Documents\HIT339-Assignment-1-Shopping-Cart\SalesBoard_s321853_MelishaSuzaneLafaber\obj\Debug\netcoreapp3.1\Razor\Views\Carts\Create.cshtml.g.cs
+C:\Users\Melisha Lafaber\Documents\HIT339-Assignment-1-Shopping-Cart\SalesBoard_s321853_MelishaSuzaneLafaber\obj\Debug\netcoreapp3.1\Razor\Views\Carts\Delete.cshtml.g.cs
+C:\Users\Melisha Lafaber\Documents\HIT339-Assignment-1-Shopping-Cart\SalesBoard_s321853_MelishaSuzaneLafaber\obj\Debug\netcoreapp3.1\Razor\Views\Carts\Details.cshtml.g.cs
+C:\Users\Melisha Lafaber\Documents\HIT339-Assignment-1-Shopping-Cart\SalesBoard_s321853_MelishaSuzaneLafaber\obj\Debug\netcoreapp3.1\Razor\Views\Carts\Edit.cshtml.g.cs
+C:\Users\Melisha Lafaber\Documents\HIT339-Assignment-1-Shopping-Cart\SalesBoard_s321853_MelishaSuzaneLafaber\obj\Debug\netcoreapp3.1\Razor\Views\Carts\Index.cshtml.g.cs
